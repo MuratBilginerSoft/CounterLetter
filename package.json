@@ -1,0 +1,13 @@
+{
+  "name": "counterletterx",
+  "version": "0.0.1",
+  "description": "The package that returns how many characters the string expression sent to him is",
+  "main": "src/index.js",
+  "type" :"module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": ["Counter", "Letter", "X"],
+  "author": "Murat Bilginer",
+  "license": "MIT"
+}
